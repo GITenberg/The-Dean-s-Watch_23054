@@ -1,0 +1,30 @@
+_repo: The-Dean-s-Watch_23054
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Fiske, Ralph Browning
+    gutenberg_agent_id: '25644'
+    url: http://www.gutenberg.org/2009/agents/25644
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
+description: ''
+gutenberg_issued: '2007-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+title: The Dean's Watch
+url: http://www.gutenberg.org/ebooks/23054
